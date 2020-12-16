@@ -11,6 +11,6 @@
 // gsap.to('.auto', {duration: 2, rotation: '70deg', top: '180px', left: '405px', ease: 'power', delay: 1.8});
 
 //TweenLite mogelijkheden:
-//Auto
+//Auto 
 TweenLite.to('.auto', 2, {top: '170px', left: '380px', ease: 'power'});
 TweenLite.to('.auto', 1, {rotation: '70deg', top: '180px', left: '405px', ease: 'power', delay: 1.8});
