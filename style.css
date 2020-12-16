@@ -39,3 +39,14 @@ h1{
 	left:150px;
 	transform: rotate(-8deg);
 }
+
+.wilde{
+	height:20px;
+	width:40px;
+	position: relative;
+	background: url('img/wilde.svg');
+	position: relative;
+	top:245px;
+	left:790px;
+	transform: rotate(60deg);
+}
