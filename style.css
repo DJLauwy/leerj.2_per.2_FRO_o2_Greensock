@@ -1,0 +1,41 @@
+*{
+	padding:0;
+	margin:0;
+	box-sizing: border-box;
+}
+html{
+	background-color: #111;
+}
+
+body{
+	width:100%;
+	height:100vh;
+	display: flex;
+	justify-content: center;
+	flex-direction: column;
+	align-items: center;
+}
+
+h1{
+	color:#fff;
+	font-family: Helvetica, sans-serif;
+}
+
+.autoweg{
+	border:1px solid #000;
+	width:1130px;
+	height:775px;
+	background: url('img/background.jpg');
+	background-position: center;
+}
+
+.auto{
+	height:20px;
+	width:40px;
+	position: relative;
+	background: url('img/auto.svg');
+	position: relative;
+	top:200px;
+	left:150px;
+	transform: rotate(-8deg);
+}
